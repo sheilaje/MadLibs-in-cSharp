@@ -2,7 +2,7 @@
 
 #### A quick start for C Sharp projects
 
-#### By Scott Bergler
+#### By Scott Bergler, Sheila Stephen
 
 ## Description
 This template will create the directories and basic files needed to start a web project in C Sharp. I adapted it from Sayed I. Hashimi's [article](https://blogs.msdn.microsoft.com/dotnet/2017/04/02/how-to-create-your-own-templates-for-dotnet-new/). The directory structure and file contents are from Epicodus C Sharp curriculum and may not be suited for all projects.
@@ -49,11 +49,6 @@ Run the this command in the cli/terminal:
 dotnet new madlibs -n YourProjectName -o YourProjectName.Solution
 
 Open the directory in your text editor. Open the .template.config/template.json file and change the author name to your own. Read the article mentioned above for details on this file and how to use it.
-
-## Known Bugs
-
-## Support and contact details
-Scott Bergler :: commandinghands@gmail.com
 
 ## Technologies Used
 
