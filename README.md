@@ -48,7 +48,7 @@ Navigate to the directory that you want your project to be in (i.e. Desktop, Doc
 Run the this command in the cli/terminal:
 dotnet new madlibs -n YourProjectName -o YourProjectName.Solution
 
-Open the directory in your text editor. Open the .template.config/template.json file and change the author name to your own. Read the article mentioned above for details on this file and how to use it.
+Open the directory in your text editor. Open the .template.config/template.json file and change the author name to your own. Read the article mentioned above for details on this file and how to use it.s
 
 ## Technologies Used
 
@@ -58,4 +58,4 @@ HTML, CSS, Json, C#.
 
 Licensed under the MIT license.
 
-Copyright (c) 2018 ** Scott Bergler **
+Copyright (c) 2018 
